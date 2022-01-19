@@ -1,0 +1,13 @@
+   Javascript
+1. It is used for writing scripts on the website.
+2.JS can only be run in the browsers.
+3.JS can run in any browser engine.
+4.JS is used in frontend development.
+5.It is the upgraded version of ECMA script that uses Chrome’s V8 engine written in C++.
+
+    Node JS
+1.NodeJS is a Javascript runtime environment.
+2.We can run Javascript outside the browser with the help of NodeJS.
+3.Nodejs is used in server-side development.
+4.V8 is the Javascript engine inside of node.js that parses and runs Javascript. 
+5.Nodejs is written in C, C++ and Javascript.
