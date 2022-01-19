@@ -1,0 +1,8 @@
+1.There are four trees they are RenderObjects, RenderStyles, RenderLayers, Line boxes.
+2.In HTML the passing is'nt straight forward.
+3.Recursive process is like traverse render tree node postion and size are childrens on layouts.
+4.The CSS and the HTML really have no correlation within the browser with exception to only their relative class and id names.
+  The CSS contains the Markup Rules and Attributes for the add_tag() methods and the GUI.
+  These have to mate/match by name to the already set add_tag() methods for the config_tags() to render them all.
+  This is the Painting.
+5.inline critical CSS in the most imporatant bits of your site/app,speeds up first paint times.
